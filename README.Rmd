@@ -1,0 +1,22 @@
+---
+title: "README"
+author: "Ethan McCormick"
+date: "8/23/2019"
+output:
+  md_document:
+    variant: gfm
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r setup, include=FALSE}
+options(width=80)
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "README-")
+```
+
+# **ABCD Workshop Simulated Data
+
+The files contained include 10000 simulated from the covariance matrix of the ABCD release. As such, all data is anonymized and freely available for use.

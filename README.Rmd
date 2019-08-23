@@ -27,4 +27,4 @@ These data were simulated in order to provide users with a similar experience to
 
 Next Steps:
   1. Synthesize a subset of variables from the ABCD, including ordinal and categorial variables.
-  2. Providing longitudinal behavioral and longitudinal data.
+  2. Providing longitudinal behavioral and MRI data.

@@ -19,4 +19,4 @@ simulated data are provided free for use.
 
 Next Steps: 1. Synthesize a subset of variables from the ABCD, including
 ordinal and categorial variables. 2. Providing longitudinal behavioral
-and longitudinal data.
+and MRI data.
